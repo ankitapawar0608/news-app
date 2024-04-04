@@ -1,0 +1,15 @@
+.news-card-container{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+
+.search-input{
+    width: 500px;
+   
+    border-radius: 5px;
+    display: block;
+    margin:0 auto;
+    margin-bottom: 40px;
+}

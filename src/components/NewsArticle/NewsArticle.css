@@ -1,0 +1,14 @@
+.article-img{
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+    width: 400px;
+}
+
+.news-article{
+   width: 500px;
+   padding: 10px;
+   margin-bottom: 20px;
+   
+}
